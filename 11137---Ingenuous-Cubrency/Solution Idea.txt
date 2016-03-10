@@ -1,0 +1,9 @@
+Solution Idea:
+
+This is a classical coin change  problem and this can be solved using dp. Here the coins  value are the cubic value of 1 to 21. we take a array called dp[] which size is greater than the maximum amount of input value. At first dp array contains only 0. Now we set dp[0]=1 because we can make 0 in 1 way and that is 0 :P .
+
+Now we run a loop via i and j for all index where i control coins value and j controls dp array index and calculate this…
+
+                                            dp[j]+=dp[j-coins[i]]
+
+After this iteration we just take input and print the value of the dp array at that input index.
