@@ -1,0 +1,7 @@
+Solution Idea:
+
+This is a dp problem. we can say that this is a knapsack problem where n and m is weight of two burgers and profit is always 1. Capacity is the given time t. so we have to maximize the weight. The main problem I faced to solve this problem is to understand the 2nd sample case. After reading the problem statement several time I understand that the problem statement states that we have to minimize the number of beer. So in the 2nd sample case the maximum number of burger can be eaten is 18 but in this case Simpson have to drink 1 beer. On the other hand if Simpson take 17 burgers (15*3)+(5*2) then he need not to drink any beer so in this case the solution will be 17 instead of 18.
+
+Now think how can we code the problem. In recursive method I at first I  determine the maximum time that can be spend in burger through a recursion like dfs. and then I calculate the maximum number of burger that can be eaten in that time. if the maximum time is equal to “t” then we print only number of burgers otherwise maximum number of burgers and the number of beer (t-maximum time) .  U have to handle two special cases separately. Think about that :P .
+
+Now it’s time for Iterative solution. this one is faster than previous one. in this solution let dp[] array contains the number of burgers in a certain time. dp[x] means Simpson can eat dp[x] burgers in x time. so we can say that always dp[min(n,m)]=1. so at first we set the whole dp array with negative value and dp[0]=0. Now we run a loop and calculate the result as follows.
