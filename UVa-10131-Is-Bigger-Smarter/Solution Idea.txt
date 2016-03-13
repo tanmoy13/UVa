@@ -1,0 +1,13 @@
+Given some pairs where in each pair fist integer is weight and second integer is IQ. Now we have to select some pairs from the given pairs where –
+
+W[a[1]] < W[a[2]] < … < W[a[n]]
+
+and  S[a[1]] > S[a[2]] > … > S[a[n]]
+
+Here n is the number of pairs which we select and a[] contain the index of the pairs which is given in the input order.
+
+After reading the problem statement we can understand that this is a LIS(Longest Increasing Sub-sequence) problem. Generally we can calculate LIS of an array of integers by comparing the values. But In this case we need one first element of the pair in strictly increasing order and second element of the pair in strictly decreasing order. So for solving this problem we can sort one element of the input pairs initially in a order which we want in the output and run LIS on all the input pairs.
+
+In this solution I am sorting the IQ elements in Descending Order because we want it in the output in descending order. After sorting we need to run LIS for every input pair. We need to do this because we have to calculate the maximum LIS and for this we are taking every input pair as the staring element of the LIS and we are taking the maximum one as our ans.
+
+Note that in the problem statement the inequalities are “strict”. Therefore within LIS algorithm, we need to check that the next weight in the sequence is greater than the previous weight, and the next IQ is less than the previous one.
