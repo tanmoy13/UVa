@@ -1,0 +1,29 @@
+This is a knapsack problem where the given numbers are objects. we have to count how many set is there of size m whose sum is divisible by d.
+
+Now here we have a three state dp. where idx indicates the current index of objects, cnt indicates how many objects we have taken till now and we can’t take more than m element and this is a base case. and 3rd parameter is sum, which indicates the sum of the objects we have taken till now.
+
+Now the sum can be very large and we can’t store the original sum in our dp array because we can’t declare such large array. So we can store the (sum%d) in the array because (sum%d) < 20  so we can easily store that. so in every step we have two call one is by taking current object and another is without taking that object. and the base case is when we have taken m elements then the sum value is either 0 or not. if it is a zero then we can say that it is divisible by d.
+
+Now the most tricky part in this problem is the numbers can be negative and we have to consider how to mod the negative numbers. Lets see a example-
+
+-12 % 7 = ??
+
+If we calculate through computer or calculator the output will be -5. but is this correct??
+
+Normally a%b = (a-x)
+
+Where x is the greatest element which is divisible by b and which is less than or equal to a.
+
+So we can say that x%b==0 and x<=a.
+
+Now lets find the number x for -12 . we can see that -14 is the greatest element which is divisible by 7 and which is less than or equal to -12.
+
+So the correct ans for -12%7 = (-12-(-14))= -12+14=2 :P
+
+We can calculate the modulus result easily in this way.
+
+if the operation is a%b and a<0. then the correct modulus value will be (a%b)+b.
+
+-12%7= (-12%7)+7=-5+7=2 :D
+
+So in this problem we have to consider the modulus of negative numbers.

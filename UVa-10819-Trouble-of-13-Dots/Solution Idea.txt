@@ -1,0 +1,7 @@
+This is a classical knapsack problem. Set a correct base case is the most challenging part of this problem. If we read and think carefully about this problem we can see that if the expense exceeds 2000$ then 200$ will be refunded so it will be strictly greater than 2000. Now we can consider 3 things as base case. Those are here-
+
+Let W is expense at current time and C = capacity or Total money.
+
+1. When W > Capacity and W-Capacity > 200 then we can’t buy anything else and the current product so we will return a large negative value to cancel this solution.
+2. When Capacity < 1800 and Capacity < W then it's clear we can't buy anything and current product so we will cancel this.
+3. And Last thing is when we are taking the last product then if W > Capacity and W <= 2000 then we can take these so we will return a Zero. Otherwise we will cancel this one by returning a large negative value.

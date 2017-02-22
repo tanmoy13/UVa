@@ -1,0 +1,7 @@
+The main problem is an array of integers is given and we have to divide the array into two small array in such a way so that the sum of both arrays are same.
+
+At first we take input and sum up the array values. if the total sum is odd then it’s confirm that we can’t split it into two equal sum. so that we can output “NO”.
+
+If the sum is Even then we can use knapsack of Coin Change any algorithm to check if we can make the (sum/2) value from the given array values. Here I am using knapsack.
+
+As the input of this problem is tricky because we don’t know how many numbers there will be in a line. So for this problem I use stringstream to solve this problem.
