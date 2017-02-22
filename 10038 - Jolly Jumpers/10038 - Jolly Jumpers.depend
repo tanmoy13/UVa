@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1406845569 source:f:\uva\10038 - jolly jumpers\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+	<algorithm>
+	<cmath>
+	<cstdio>
+	<cstdio>
+	<cmath>
+	<set>
+

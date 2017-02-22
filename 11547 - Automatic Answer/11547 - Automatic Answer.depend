@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405886170 source:f:\uva\11547 - automatic answer\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

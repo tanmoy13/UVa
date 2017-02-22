@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1420123648 source:f:\uva\713 - adding reversed numbers\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

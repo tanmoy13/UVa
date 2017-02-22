@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1412423006 source:f:\uva\568 - just the facts\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

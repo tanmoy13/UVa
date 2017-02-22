@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1400504169 source:c:\documents and settings\tanmoy\desktop\logical_operator\main.c
+	<stdio.h>
+	<stdlib.h>
+

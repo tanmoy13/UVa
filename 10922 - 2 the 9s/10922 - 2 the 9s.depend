@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405901260 source:f:\uva\10922 - 2 the 9s\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+

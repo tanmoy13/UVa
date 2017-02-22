@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1405173088 source:f:\uva\412 - pi\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1415996406 source:g:\uva\341 - non-stop travel\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

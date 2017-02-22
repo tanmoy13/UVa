@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405504646 source:f:\uva\160 - factors and factorials\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+	<cstdlib>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404606074 source:f:\uva\10035 - primary arithmetic\main.c
+	<stdio.h>
+	<stdlib.h>
+

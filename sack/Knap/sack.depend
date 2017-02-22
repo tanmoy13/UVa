@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417189131 source:g:\uva\sack\knap\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

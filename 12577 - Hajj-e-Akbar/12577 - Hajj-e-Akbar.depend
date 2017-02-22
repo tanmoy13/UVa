@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1405803034 source:f:\uva\12577 - hajj-e-akbar\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

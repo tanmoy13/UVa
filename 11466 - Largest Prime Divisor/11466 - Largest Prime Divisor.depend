@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1411689667 source:f:\uva\11466 - largest prime divisor\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

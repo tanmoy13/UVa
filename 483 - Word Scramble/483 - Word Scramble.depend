@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405549480 source:f:\uva\483 - word scramble\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+

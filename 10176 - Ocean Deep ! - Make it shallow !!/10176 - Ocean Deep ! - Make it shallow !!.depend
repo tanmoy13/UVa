@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1412077975 source:f:\uva\10176 - ocean deep ! - make it shallow !!\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406759500 source:f:\uva\10963 - the swallowing ground\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

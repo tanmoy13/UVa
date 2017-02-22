@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406603581 source:f:\uva\11689 - soda surpler\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1411678350 source:f:\uva\10789 - prime frequency\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

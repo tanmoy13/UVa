@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405887007 source:f:\uva\10302 - summation of polynomials\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

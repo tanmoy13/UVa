@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406761183 source:f:\uva\11679 - sub-prime\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1406064947 source:f:\uva\10252 - common permutation\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+

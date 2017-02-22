@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1418363614 source:f:\uva\11219 - how old are you\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405964100 source:f:\uva\458 - the decoder\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

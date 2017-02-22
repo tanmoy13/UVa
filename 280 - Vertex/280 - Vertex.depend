@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1416182518 source:g:\uva\280 - vertex\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

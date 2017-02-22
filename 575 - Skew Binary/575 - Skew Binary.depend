@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403901095 source:f:\uva\575 - skew binary\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405895021 source:f:\uva\11332 - summing digits\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

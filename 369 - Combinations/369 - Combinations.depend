@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1417024540 source:g:\uva\369 - combinations\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

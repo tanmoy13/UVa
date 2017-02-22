@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1411573250 source:f:\uva\686 - goldbach's conjecture (ii)\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

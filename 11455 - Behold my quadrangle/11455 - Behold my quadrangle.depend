@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1406331840 source:f:\uva\11455 - behold my quadrangle\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+

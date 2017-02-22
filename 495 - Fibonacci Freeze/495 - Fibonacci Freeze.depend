@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1412419573 source:f:\uva\495 - fibonacci freeze\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

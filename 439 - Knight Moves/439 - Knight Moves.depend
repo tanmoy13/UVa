@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1415617560 source:g:\uva\439 - knight moves\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

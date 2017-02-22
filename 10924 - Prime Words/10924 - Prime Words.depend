@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1412166076 source:f:\uva\10924 - prime words\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

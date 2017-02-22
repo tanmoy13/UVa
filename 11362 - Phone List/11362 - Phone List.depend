@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1424060873 source:f:\uva\11362 - phone list\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<deque>
+	<stack>
+	<list>
+	<string>
+	<map>
+

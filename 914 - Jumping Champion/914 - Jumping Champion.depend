@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1411580642 source:c:\documents and settings\administrator\desktop\914 - jumping champion\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

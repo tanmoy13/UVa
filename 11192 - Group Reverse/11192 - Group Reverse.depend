@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405971779 source:f:\uva\11192 - group reverse\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+

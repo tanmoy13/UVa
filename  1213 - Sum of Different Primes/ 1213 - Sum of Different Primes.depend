@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1420152715 source:f:\uva\ 1213 - sum of different primes\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

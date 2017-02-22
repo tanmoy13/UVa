@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1406071074 source:f:\uva\10082 - wertyu\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+

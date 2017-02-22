@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1402169801 source:f:\uva\579 - clock hands\579 - clock hands\main.c
+	<stdio.h>
+	<math.h>
+

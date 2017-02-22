@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405872025 source:f:\uva\11636 - hello world!\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

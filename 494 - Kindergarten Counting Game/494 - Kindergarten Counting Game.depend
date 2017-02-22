@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1406098732 source:f:\uva\494 - kindergarten counting game\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+

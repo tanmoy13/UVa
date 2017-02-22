@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405761630 source:f:\uva\10019 - funny encryption method\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

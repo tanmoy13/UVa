@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1405271688 source:f:\uva\10070 - leap year or not leap year and\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string.h>
+	<stdlib.h>
+

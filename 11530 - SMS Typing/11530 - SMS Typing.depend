@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406489760 source:f:\uva\11530 - sms typing\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1407526190 source:f:\uva\12592 - slogan learning of princess\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

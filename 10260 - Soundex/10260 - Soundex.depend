@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405969321 source:f:\uva\10260 - soundex\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1412172388 source:f:\uva\10161 - ant on a chessboard\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+
+1412168790 source:g:\uva\10161 - ant on a chessboard\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1405002272 source:f:\uva\11059 - maximum product\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

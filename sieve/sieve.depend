@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405496707 source:f:\uva\sieve\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<cstring>
+	<vector>
+

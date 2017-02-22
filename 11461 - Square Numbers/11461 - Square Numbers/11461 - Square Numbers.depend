@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403551337 source:f:\uva\11461 - square numbers\11461 - square numbers\main.c
+	<stdio.h>
+	<math.h>
+

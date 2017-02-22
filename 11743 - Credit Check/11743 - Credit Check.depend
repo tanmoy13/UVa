@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1410504578 source:f:\uva\11743 - credit check\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

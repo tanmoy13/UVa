@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404933085 source:f:\uva\ 401 - palindromes\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1406159602 source:f:\uva\11462 - age sort\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+

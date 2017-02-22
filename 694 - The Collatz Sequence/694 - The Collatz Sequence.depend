@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1407534584 source:f:\uva\694 - the collatz sequence\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

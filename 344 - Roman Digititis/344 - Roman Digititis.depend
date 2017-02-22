@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405543534 source:f:\uva\344 - roman digititis\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

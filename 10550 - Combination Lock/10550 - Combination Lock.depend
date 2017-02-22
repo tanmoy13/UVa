@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405189893 source:f:\uva\10550 - combination lock\main.cpp
+	<iostream>
+	<cstdio>
+

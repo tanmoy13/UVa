@@ -1,0 +1,22 @@
+bob -1827
+anne 726
+lee 1348
+juanita 1610
+omar -745
+shawanda 1081
+lavanya -1242
+park -2301
+xianyu 414
+yvette 936
+
+anne 503
+ganesh 2090
+wahida -2728
+shizuka 1194
+maria 1681
+catherine -3698
+kiran 28
+leo 930
+
+fanny 100
+disha -100

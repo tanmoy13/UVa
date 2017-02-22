@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1408082924 source:f:\uva\11879 - multiple of 17\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

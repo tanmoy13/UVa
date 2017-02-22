@@ -1,0 +1,26 @@
+10
+bob anne lee juanita omar shawanda lavanya park xianyu yvette
+lavanya 1805 1 yvette
+bob 1350 6 anne juanita xianyu yvette juanita omar
+omar 756 4 lavanya lavanya anne xianyu
+omar 439 1 juanita
+park 1538 5 lee yvette anne juanita shawanda
+yvette 1658 4 bob park lavanya juanita
+lavanya 1021 4 omar lee bob yvette
+park 1573 2 lee lavanya
+bob 1161 3 shawanda park shawanda
+omar 31 6 bob bob anne lavanya bob park
+8
+anne ganesh wahida shizuka maria catherine kiran leo
+wahida 886 1 ganesh
+catherine 142 5 anne ganesh kiran wahida shizuka
+catherine 1699 3 maria maria shizuka
+anne 600 1 shizuka
+catherine 1861 4 ganesh leo leo wahida
+ganesh 182 1 anne
+wahida 617 3 anne maria ganesh
+wahida 1721 5 anne ganesh anne maria ganesh
+2
+fanny disha
+fanny 1000 0
+disha 100 1 fanny

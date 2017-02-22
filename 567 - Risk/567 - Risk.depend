@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1412528900 source:f:\uva\567 - risk\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

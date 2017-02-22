@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406400117 source:f:\uva\12289 - one-two-three\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

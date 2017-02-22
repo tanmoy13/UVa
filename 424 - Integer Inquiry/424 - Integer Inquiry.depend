@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406389571 source:f:\uva\424 - integer inquiry\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

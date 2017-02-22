@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1405888870 source:f:\uva\591 - box of bricks\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+	<algorithm>
+	<cstdlib>
+

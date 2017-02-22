@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406397146 source:f:\uva\1124 - celebrity jeopardy\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

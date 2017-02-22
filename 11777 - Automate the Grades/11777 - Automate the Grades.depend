@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406336384 source:f:\uva\11777 - automate the grades\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+

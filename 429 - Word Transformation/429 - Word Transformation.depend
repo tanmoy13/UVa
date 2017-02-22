@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1415710453 source:g:\uva\429 - word transformation\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<set>
+	<queue>
+	<stack>
+	<list>
+	<string>
+	<map>
+
+1432649333 source:f:\uva\429 - word transformation\main.cpp
+	<bits/stdc++.h>
+
